@@ -1,0 +1,11 @@
+This code checks if an email address is valid.
+The code starts by taking input from the user.
+The code then defines 3 variables and sets them to 0.
+The code then checks if the email address is greater than or equal to 6.
+The code then checks if the first character in the email address is alphanumeric or not.
+The code then checks if the email address contains only one '@' character.
+The code then checks if the email address contains a period right before the extension.
+The code then iterates over all the characters in the email address and checks if the email address contains any spaces, upper case characters, or digits.
+The code then checks if the email address is valid or not.
+If the email address is valid, the code will print "RIGHT EMAIL".
+If the email address is not valid, the code will print "WRONG EMAIL".
